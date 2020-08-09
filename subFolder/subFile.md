@@ -3,7 +3,7 @@
 
 # Sub File
 
-```ecstasy
+```Ecstasy
 run 
   {
   a = 1;
