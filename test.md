@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Post Test
+layout: page
+title: Page Test
 ---
 
 ## Test file!
 
-Hello post world!
+Hello paget world!
