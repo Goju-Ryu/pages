@@ -6,4 +6,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 [test](test.md)
-[subFile](subFolder/subFilet.md)
+[subFile](subFolder/subFile.md)
