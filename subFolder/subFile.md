@@ -4,10 +4,18 @@
 # Sub File
 
 ```Java
-run 
+module Main 
   {
-  a = 1;
-  b = 2;
-  c = a + b;
+  run 
+    {
+    a = 1;
+    b = 2;
+    c = add(a + b);
+    }
+
+  Int add(Int a, Int b)
+    {
+    return a + b;
+    }
   }
 ```
