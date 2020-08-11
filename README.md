@@ -1,9 +1,5 @@
-## Welcome to GitHub Pages
+# Welcome!
+This is my personal page describing some of my projects, tech related blogs and whatever else I might find interesting.
 
-You can use the [editor on GitHub](https://github.com/Goju-Ryu/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-[test](test.md)
-[subFile](subFolder/subFile.md)
+## Coming soon
+This site is still under construction, which means a lot of content is missing. I hope to refine and expand this site in the comming weeks and months!
