@@ -1,2 +1,2 @@
-# Ecstacy Lang
+# Ecstasy Lang
 {% include list.liquid %}
