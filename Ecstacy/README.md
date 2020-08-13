@@ -1,2 +1,2 @@
-# This is a sub folder
+# Ecstacy Lang
 {% include list.liquid %}
