@@ -1,2 +1,2 @@
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme:  CloudCannon/edition-jekyll-template #rundocs/jekyll-rtd-theme
 markdown: kramdown
