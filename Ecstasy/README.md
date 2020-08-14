@@ -1,9 +1,4 @@
 # Ecstasy Lang
-
-## Files
-{% include list.liquid all=true %}
-
-## Posts
 <ul>
   {% for post in site.posts %}
     <li>
