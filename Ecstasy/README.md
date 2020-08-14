@@ -1,7 +1,7 @@
 # Ecstasy Lang
 
 ## Files
-{% include list.liquid %}
+{% include list.liquid all=true %}
 
 ## Posts
 <ul>
