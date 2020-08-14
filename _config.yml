@@ -1,2 +1,2 @@
-remote_theme:  LiXizhi/lixizhi.github.io #rundocs/jekyll-rtd-theme
+remote_theme:   neizod/lemma-theme  #rundocs/jekyll-rtd-theme
 markdown: kramdown
